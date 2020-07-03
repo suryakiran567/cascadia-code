@@ -9,7 +9,8 @@
         <string>Weight</string>
         <key>tag</key>
         <string>wght</string>
-        <key>locations</key>
+	<key>locations</key>
+	<key>area name</key>
         <array>
           <dict>
             <key>name</key>
