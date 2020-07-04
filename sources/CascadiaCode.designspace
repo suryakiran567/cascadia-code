@@ -92,7 +92,8 @@
       <key>GSDimensionPlugin.Dimensions</key>
       <dict>
         <key>47A123F8-062D-4F48-9577-BC700BC51F36</key>
-        <dict>
+	<dict>
+	 <key>93</key>	
           <key>HH</key>
           <string>88</string>
           <key>HV</key>
@@ -114,7 +115,8 @@
         </dict>
         <key>CF6B61C3-38FB-41CB-B8C0-98C1B61AF433</key>
         <dict>
-          <key>HH</key>
+	  <key>93</key>
+	  <key>HH</key>
           <string>254</string>
           <key>HV</key>
           <string>276</string>
